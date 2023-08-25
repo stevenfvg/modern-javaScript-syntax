@@ -3,7 +3,7 @@ const info = document.createElement('p');
 info.className = 'text-center';
 // Adding content with HTML
 info.innerHTML =
-  '<i class="bi bi-info-circle me-1"></i>Open the browser console to review the guide examples.';
+  '<i class="bi bi-terminal"></i> Open the console <strong>Ctrl+Shift+I</strong>';
 
 // Add info inside the container.
 const container = document.querySelector('.container');
