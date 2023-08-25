@@ -18,3 +18,8 @@ Welcome to the guide of examples in JavaScript using the **ES6** standard. This 
 - [12-arrayMethods](12-arrayMethods)
 
 Basic examples can be executed directly from the command line using **Node.js**.
+
+## Intermediate Level Examples
+
+- [13-DOM](13-DOM) (Document Object Model)
+- [14-events](14-events)
